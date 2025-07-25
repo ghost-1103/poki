@@ -1,0 +1,70 @@
+body{
+    background-image: url(https://altezzatravel.com/upload/medialibrary/f23/dzdj3ueavjbv8eb0i9foxm3vd711i1r3.webp);
+    background-size: cover;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.big{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.card{
+    width: 40vb;
+    height: 50vb;
+    background: linear-gradient( 210deg, rgba(0, 0, 0, 0.302) , rgba(255, 0, 0, 0.701) );
+    color: white;
+    opacity: 60%;
+} 
+.card2{
+    width: 40vb;
+    height: 50vb;
+    background: linear-gradient( 210deg, rgba(0, 0, 0, 0.455) , rgba(13, 0, 255, 0.329) );
+    color: white;
+    opacity: 60%;
+} 
+.card3{
+    width: 40vb;
+    height: 50vb;
+    background: linear-gradient( 210deg, rgba(0, 0, 0, 0.506) , rgba(0, 166, 255, 0.59) );
+    color: white;
+    opacity: 60%;
+} 
+h2{
+    margin-top: 300px;
+    color: rgb(170, 170, 170);
+    margin-left: 60px;
+}
+h1{
+    font-size: 40px;
+    margin-left: 60px;
+}
+.h2{
+    color: rgb(170, 170, 170);
+    margin-top: -70px;
+    margin-left: 60px;
+}   
+.p{
+    font-size: 100px;
+    color: white;
+}
+.card:hover{
+    width: 40vb;
+    height: 50vb;
+    background: linear-gradient( 210deg, rgba(0, 0, 0, 0.302) , rgba(255, 0, 0, 0.701) );
+    color: white;
+    opacity: 100%;
+}
+.card2:hover{
+    width: 40vb;
+    height: 50vb;
+    background: linear-gradient( 210deg, rgba(0, 0, 0, 0.455) , rgba(13, 0, 255, 0.329) );
+    color: white;
+    opacity: 100%;
+}
+.card3:hover{
+    width: 40vb;
+    height: 50vb;
+    background: linear-gradient( 210deg, rgba(0, 0, 0, 0.506) , rgba(0, 166, 255, 0.59) );
+    color: white;
+    opacity: 100%;
+}
